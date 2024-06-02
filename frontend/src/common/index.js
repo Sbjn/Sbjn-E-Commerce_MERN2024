@@ -1,5 +1,5 @@
 
-const Backenddomain = "https://mern-backend-6-2024.onrender.com/"
+const Backenddomain = "https://mern-backend-6-2024.onrender.com"
 
 const SumaryApi ={
 
